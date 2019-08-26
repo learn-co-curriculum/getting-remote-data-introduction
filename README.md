@@ -9,9 +9,9 @@ party source.
 
 This data can be very useful. You can pick and choose what parts of an
 application you want to use without trawling through an entire codebase. You can
-a lot of interesting functionality into simple apps.
+add a lot of interesting functionality into simple apps.
 
-We'll discuss the answers to these questions along the way:
+We'll discuss the answers to the following questions along the way:
 
 * What is an API?
 * How can APIs be used?
